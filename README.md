@@ -193,7 +193,3 @@ Through this implementation:
 This work successfully demonstrates a complete and structured approach to data collection and preparation for a cybersecurity machine learning task. The phishing detection dataset was thoroughly validated, cleaned, and analyzed.
 
 The final validation accuracy of 96.78% confirms that the dataset meets the defined success criteria and is ready for production-level model development.
-
-The workflow aligns with academic requirements and industry best practices for cybersecurity data preparation.
-
-Tell me what you prefer.
