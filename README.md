@@ -1,11 +1,5 @@
 # Data Collection and Preparation for Machine Learning in Cybersecurity
 
-**Roll No:** 16014223080
-**Batch:** A2
-**Course:** Machine Learning for Cyber Security (MLCS)
-**Semester:** VI (2025–26)
-**Institution:** K. J. Somaiya Institute of Technology
-
 ---
 
 ## Overview
